@@ -1,0 +1,12 @@
+{
+  "name": "natuors",
+  "version": "1.0.0",
+  "description": "Landing page for natuors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saikou",
+  "license": "ISC",
+  "devDependencies": {}
+}
